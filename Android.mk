@@ -1,1 +1,5 @@
-include $(call all-subdir-makefiles)
+#
+# Automatically generated file. DO NOT MODIFY
+#
+
+LOCAL_PATH := $(call my-dir)
